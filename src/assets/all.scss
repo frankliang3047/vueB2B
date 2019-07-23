@@ -1,0 +1,7 @@
+@import "~bootstrap/scss/functions";    //bootstrap4 套用變數的方法
+@import "./helpers/variables";          //自訂的 bootstrap4變數
+@import "~bootstrap/scss/bootstrap";    //引用bootstrap4 scss
+@import './helpers/_swiper';            //引用Vue-Awesome-Swiper scss
+
+
+@import "./_dashboard";
